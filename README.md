@@ -75,7 +75,7 @@
 
 ### 🚀 Featured Projects
 
-**[BTC Price Bot](https://github.com/hse7771/btc-price-bot) 🦾**  
+**[BTC Price Bot](https://github.com/hse7771/btc-price-bot) 🪙**  
 A multi-currency Telegram bot for live crypto prices, automated notifications, and personalized tracking—built for speed, 
 flexibility, and great UX.
 
